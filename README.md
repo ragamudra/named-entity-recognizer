@@ -14,7 +14,7 @@
 
 **6_Sparql_Wikidata.ipynb**- Exteral wiki data to filter named entitites
 
-**7_Filter NERs.ipynb **- Similarity for fitering
+**7_Filter NERs.ipynb**- Similarity for fitering
 **8_Final_step.ipynb** - Final list
  
  
