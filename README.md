@@ -8,11 +8,15 @@
 
 **3_News_corpus_other_libraries_collab.ipynb** - Gensim to generate similar words
 
-**4_NER_News_new.ipynb**  -  Train a NER dataset
+#################################################################################################
+
+Building a classifier for NER other than using libraries
+
+**4_NER_News_new.ipynb**  -  Train a NER dataset from a pre-labelled dataset
 
 **5_NER_news_entity_run.ipynb**- Apply to news corpus
 
-**6_Sparql_Wikidata.ipynb**- Exteral wiki data to filter named entitites
+**6_Sparql_Wikidata.ipynb**- Exteral wiki data to filter 'non-organization' entitites
 
 **7_Filter NERs.ipynb**- Similarity for fitering
 **8_Final_step.ipynb** - Final list
