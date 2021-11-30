@@ -4,6 +4,13 @@
  
  **1_News corpus.ipynb ** - Simple logic of extracting NER using NLTK
  2_spacy_library_word_vectors.ipynb - NER with SPACY
+
+**3_News_corpus_other_libraries_collab.ipynb** - Gensim to generate similar words
+**4_NER_News_new.ipynb**  -  Train a NER dataset
+**5_NER_news_entity_run.ipynb **- Apply to news corpus
+**6_Sparql_Wikidata.ipynb **- Exteral wiki data to filter named entitites
+**7_Filter NERs.ipynb **- Similarity for fitering
+**8_Final_step.ipynb** - Final list
  
  
  Input datasets to the code can be seeen from https://drive.google.com/drive/folders/1uwOv4TwoiT5ckwivqtW39wJZ9QEU1hNe?usp=sharing
