@@ -2,17 +2,17 @@
 
  Named entities are person, place, organization etc mentioned in a text corpus. In our case we are interested in extracting “Organization” from the text corpus. We would like to extract the “organization names” from the given text of news corpus. 
  
-** 1_News corpus.ipynb **- Simple logic of extracting NER using NLTK
+**1_News corpus.ipynb**- Simple logic of extracting NER using NLTK
  
-**** 2_spacy_library_word_vectors.ipynb**** - NER with SPACY
+**2_spacy_library_word_vectors.ipynb** - NER with SPACY
 
 **3_News_corpus_other_libraries_collab.ipynb** - Gensim to generate similar words
 
 **4_NER_News_new.ipynb**  -  Train a NER dataset
 
-**5_NER_news_entity_run.ipynb **- Apply to news corpus
+**5_NER_news_entity_run.ipynb**- Apply to news corpus
 
-**6_Sparql_Wikidata.ipynb **- Exteral wiki data to filter named entitites
+**6_Sparql_Wikidata.ipynb**- Exteral wiki data to filter named entitites
 
 **7_Filter NERs.ipynb **- Similarity for fitering
 **8_Final_step.ipynb** - Final list
